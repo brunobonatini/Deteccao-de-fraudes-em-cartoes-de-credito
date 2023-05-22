@@ -1,4 +1,4 @@
-# Detecção de Fraudes em Cartões de Crédito
+# Projeto - Detecção de Fraudes em Cartões de Crédito
 Com o aumento das transações online e o uso cada vez mais frequente de cartões de crédito, a detecção de fraudes em transações se tornou uma preocupação importante para empresas e consumidores. 
 As empresas de cartões de crédito investem em tecnologia para detectar atividades suspeitas e prevenir fraudes, mas a evolução das técnicas de fraude torna essa tarefa cada vez mais desafiadora. 
 Uma solução pode ser o uso de algoritmos de Machine Learning, que podem analisar grandes quantidades de dados e identificar padrões suspeitos com maior eficiência.
