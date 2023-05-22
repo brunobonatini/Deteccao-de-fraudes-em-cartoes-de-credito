@@ -8,6 +8,7 @@ Este projeto tem como objetivo construir modelos de Machine Learning para detect
 
 ## Coleta dos Dados
 Fonte: Kaggle
+
 Foram utilizados dados reais históricos disponibilizados por uma empresa européia, contendo transações rotuladas como fraudulentas ou não fraudulentas para treinar os modelos de Machine Learning.
 
 ## Ferramentas
@@ -17,6 +18,7 @@ Foram utilizados dados reais históricos disponibilizados por uma empresa europ�
 
 ## Resultados
 Os modelos serão capazes de aprender padrões e identificar transações fraudulentas em tempo real. 
+
 O sucesso deste projeto pode ajudar a reduzir as perdas financeiras para as empresas de cartões de crédito e proteger os consumidores contra fraudes.
 
 Link do projeto completo: https://shre.ink/ka7B
